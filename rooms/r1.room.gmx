@@ -14,7 +14,9 @@
     instance_create(0, 0, objParticlesRWN3);
     
 if(!instance_exists(objBlackScreen2))
-    instance_create(0, 0, objBlackScreen2);</code>
+    instance_create(0, 0, objBlackScreen2);
+    
+audio_sound_gain(bgmPart1, 1, 0);</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

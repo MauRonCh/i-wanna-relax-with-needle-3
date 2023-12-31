@@ -275,6 +275,8 @@ if(!instance_exists(objBlackScreen2))
     <instance objName="objLimits" x="656" y="0" name="inst_A5EA107F" locked="0" code="" scaleX="1.54838705062866" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objLimits" x="736" y="0" name="inst_B474A552" locked="0" code="" scaleX="2.06451606750488" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMiniSpikeUp" x="408" y="304" name="inst_248CA98B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="objMiniSpikeDown" x="216" y="464" name="inst_C82866EF" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="objMiniSpikeUp" x="216" y="456" name="inst_83CFB553" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tlsRelax3" x="576" y="576" w="32" h="32" xo="0" yo="0" id="10003095" name="inst_B5EE6161" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
